@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "84716890743",
+    "firebase_url": "https://sportstation-d055d.firebaseio.com",
+    "project_id": "sportstation-d055d",
+    "storage_bucket": "sportstation-d055d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84716890743:android:359c18d796aeaf8f",
+        "android_client_info": {
+          "package_name": "com.tam.inch.sportstation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84716890743-4clladklctjs4fufb49bn6p8emlhsau5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwOShfCRX85C2VHopxIO9oBPl-cR0-PSo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
